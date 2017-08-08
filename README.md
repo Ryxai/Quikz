@@ -2,7 +2,7 @@
 Python script to implement a quiz maker/taker/grader.
 Designed to run over the command line. Designed for quiz taking as a part of self-study.
 Due to the design of python, functionality inherently more advanced then multiple/choice or 'range-limited' inputs
-is not possible at the current time. [Failures of python sandboxing](https://lwn.net/Articles/574215/) is abailable
+is not possible at the current time. [Failures of python sandboxing](https://lwn.net/Articles/574215/) is available
 on why making quizzes that can evaluate python scripts directly would be easily exploitable. 
 
 ## API
